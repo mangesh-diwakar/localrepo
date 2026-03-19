@@ -3,3 +3,5 @@ last_name = input("Enter your last-name: ")
 
 print("Hello", first_name, last_name)
 print("This is a new feature", "Mangesh")
+print("This is a new feature", "of hello")
+
